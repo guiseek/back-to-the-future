@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "public": "tsc && vite build --base=back-to-the-future",
     "preview": "vite preview"
   },
   "devDependencies": {
